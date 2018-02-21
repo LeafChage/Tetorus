@@ -1,0 +1,8 @@
+[package]
+name = "tetrust"
+version = "0.1.0"
+authors = ["LeafChage <d0o0b_lx3xl@yahoo.co.jp>"]
+
+[dependencies]
+ncurses = "5.86.0"
+rand = "*"
